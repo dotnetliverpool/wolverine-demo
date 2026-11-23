@@ -1,0 +1,10 @@
+bin/
+obj/
+*.user
+.vs/
+.idea/
+
+# Local secrets — copy appsettings.example.json to appsettings.json
+appsettings.json
+appsettings.*.json
+!appsettings.example.json
